@@ -11,11 +11,13 @@ Return the maximum number of cards Alice can collect, if Bob plays optimally (tr
 Example
 When there are 10 cards, Alice can collect maximum 8, like this:
 
+```python
 1. Alice takes half of the 10 cards (now has: 5) --> 5 cards left
 2. Bob must take 1 card (now has: 1) --> 4 cards left
 3. Alice takes half of the 4 cards (now has: 5 + 2 = 7) --> 2 cards left
 4. Bob takes 1 (or half of the 2 cards) (now has: 1 + 1 = 2) --> 1 card left
 5. Alice takes the last card (now has: 7 + 1 = 8) --> game over!
+```
 
 Thus, Alice has 8 cards and Bob has 2
 

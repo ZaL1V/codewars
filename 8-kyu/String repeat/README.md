@@ -6,3 +6,5 @@ Examples (input -> output)
 6, "I"     -> "IIIIII"
 5, "Hello" -> "HelloHelloHelloHelloHello"
 ```
+
+https://www.codewars.com/kata/57a0e5c372292dd76d000d7e

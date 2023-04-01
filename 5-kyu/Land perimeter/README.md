@@ -25,3 +25,5 @@ Following input:
 which represents:
 ![изображение](https://i.snipboard.io/Kv9BEz.jpg)
 should return: "Total land perimeter: 18"
+
+https://www.codewars.com/kata/5839c48f0cf94640a20001d3
